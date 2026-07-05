@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**syourenn/syourenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Go backend developer.
 
-Here are some ideas to get you started:
+Разрабатываю микросервисы и инфраструктурные сервисы на Go. Интересуюсь высоконагруженными системами, многопоточностью, устройством хранилищ данных и распределёнными приложениями.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Основной стек:
+- Go
+- PostgreSQL
+- Docker
+- Kubernetes
+- Redis
+- Kafka
+- MinIO
